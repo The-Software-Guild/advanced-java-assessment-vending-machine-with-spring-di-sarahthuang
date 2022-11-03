@@ -1,0 +1,170 @@
+Mon Jul 04 18:24:34 EDT 2022 :: Item CocaCola has been sold. Number in Inventory: 17
+Mon Jul 04 18:24:36 EDT 2022 :: Item CocaCola has been sold. Number in Inventory: 16
+Mon Jul 04 18:24:39 EDT 2022 :: Item Canada Dry has been sold. Number in Inventory: 12
+Mon Jul 04 18:24:40 EDT 2022 :: Item Potato Chip has been sold. Number in Inventory: 31
+Mon Jul 04 18:24:42 EDT 2022 :: Item Pepsi has been sold. Number in Inventory: 10
+Mon Jul 04 18:24:44 EDT 2022 :: Item Mountain Dew has been sold. Number in Inventory: 1
+Mon Jul 04 18:24:46 EDT 2022 :: Item Potato Chip has been sold. Number in Inventory: 30
+Mon Jul 04 18:24:47 EDT 2022 :: Item Potato Chip has been sold. Number in Inventory: 29
+Mon Jul 04 18:24:49 EDT 2022 :: Item Mountain Dew has been sold. Number in Inventory: 0
+Mon Jul 04 18:24:51 EDT 2022 :: Item Snickers Bar has been sold. Number in Inventory: 16
+Mon Jul 04 18:24:53 EDT 2022 :: Item Pepsi has been sold. Number in Inventory: 9
+Mon Jul 04 18:24:55 EDT 2022 :: Item Pepsi has been sold. Number in Inventory: 8
+Mon Jul 04 18:24:59 EDT 2022 :: Item Potato Chip has been sold. Number in Inventory: 28
+Mon Jul 04 18:25:01 EDT 2022 :: Item Cheetos has been sold. Number in Inventory: 3
+Mon Jul 04 18:25:04 EDT 2022 :: Item Cheetos has been sold. Number in Inventory: 2
+Mon Jul 04 18:25:06 EDT 2022 :: Item Potato Chip has been sold. Number in Inventory: 27
+Mon Jul 04 18:25:07 EDT 2022 :: Item Cheetos has been sold. Number in Inventory: 1
+Mon Jul 04 18:25:09 EDT 2022 :: Item Canada Dry has been sold. Number in Inventory: 11
+Mon Jul 04 18:25:10 EDT 2022 :: Item Pepsi has been sold. Number in Inventory: 7
+Mon Jul 04 18:25:12 EDT 2022 :: Item Cheetos has been sold. Number in Inventory: 0
+Mon Jul 04 18:25:14 EDT 2022 :: Item Potato Chip has been sold. Number in Inventory: 26
+Mon Jul 04 18:25:15 EDT 2022 :: Item Potato Chip has been sold. Number in Inventory: 25
+Mon Jul 04 18:25:20 EDT 2022 :: Item Canada Dry has been sold. Number in Inventory: 10
+Mon Jul 04 18:25:22 EDT 2022 :: Item Snickers Bar has been sold. Number in Inventory: 15
+Mon Jul 04 18:25:23 EDT 2022 :: Item Canada Dry has been sold. Number in Inventory: 9
+Mon Jul 04 18:25:27 EDT 2022 :: Item Potato Chip has been sold. Number in Inventory: 24
+Mon Jul 04 18:25:29 EDT 2022 :: Item Pepsi has been sold. Number in Inventory: 6
+Mon Jul 04 18:25:30 EDT 2022 :: Item Potato Chip has been sold. Number in Inventory: 23
+Mon Jul 04 18:25:32 EDT 2022 :: Item Canada Dry has been sold. Number in Inventory: 8
+Mon Jul 04 18:25:33 EDT 2022 :: Item Potato Chip has been sold. Number in Inventory: 22
+Mon Jul 04 18:25:35 EDT 2022 :: Item Canada Dry has been sold. Number in Inventory: 7
+Mon Jul 04 18:25:36 EDT 2022 :: Item Canada Dry has been sold. Number in Inventory: 6
+Mon Jul 04 18:25:40 EDT 2022 :: Item Potato Chip has been sold. Number in Inventory: 21
+Mon Jul 04 18:25:44 EDT 2022 :: Item Potato Chip has been sold. Number in Inventory: 20
+Tue Jul 05 11:00:50 EDT 2022 :: Item Mountain Dew has been sold. Number in Inventory: 16
+Tue Jul 05 11:01:11 EDT 2022 :: Item CocaCola has been sold. Number in Inventory: 15
+Tue Jul 05 11:01:16 EDT 2022 :: Item Canada Dry has been sold. Number in Inventory: 5
+Tue Jul 05 11:01:22 EDT 2022 :: Item Potato Chip has been sold. Number in Inventory: 99
+Tue Jul 05 11:01:54 EDT 2022 :: Item CocaCola has been sold. Number in Inventory: 14
+Tue Jul 05 11:02:28 EDT 2022 :: Item Snickers Bar has been sold. Number in Inventory: 14
+Tue Jul 05 11:22:55 EDT 2022 :: Item abc has been sold. Number in Inventory: 8
+Tue Jul 05 11:26:24 EDT 2022 :: Item abc has been sold. Number in Inventory: 8
+Tue Jul 05 11:26:24 EDT 2022 :: Item abc has been sold. Number in Inventory: 7
+Tue Jul 05 11:47:32 EDT 2022 :: Item abc has been sold. Number in Inventory: 8
+Tue Jul 05 11:59:02 EDT 2022 :: Item abc has been sold. Number in Inventory: 8
+Tue Jul 05 11:59:18 EDT 2022 :: Item abc has been sold. Number in Inventory: 8
+Tue Jul 05 11:59:43 EDT 2022 :: Item abc has been sold. Number in Inventory: 8
+Tue Jul 05 12:03:58 EDT 2022 :: Item abc has been sold. Number in Inventory: 8
+Tue Jul 05 12:04:40 EDT 2022 :: Item abc has been sold. Number in Inventory: 8
+Tue Jul 05 12:05:20 EDT 2022 :: Item abc has been sold. Number in Inventory: 8
+Tue Jul 05 12:17:13 EDT 2022 :: Item abc has been sold. Number in Inventory: 8
+Tue Jul 05 12:58:14 EDT 2022 :: Item Snickers Bar has been sold. Number in Inventory: 13
+Tue Jul 05 12:58:25 EDT 2022 :: Item Potato Chip has been sold. Number in Inventory: 98
+Tue Jul 05 13:19:01 EDT 2022 :: Item abc has been sold. Number in Inventory: 8
+Tue Jul 05 13:21:33 EDT 2022 :: Item abc has been sold. Number in Inventory: 8
+Tue Jul 05 13:23:40 EDT 2022 :: Item Potato Chip has been sold. Number in Inventory: 97
+Tue Jul 05 13:24:17 EDT 2022 :: Item abc has been sold. Number in Inventory: 7
+Fri Oct 21 08:34:16 PDT 2022 :: Item Snickers Bar has been sold. Number in Inventory: 12
+2022-10-29T22:35:21.331654 : Product Id: 007 quantity in stock is zero.
+2022-10-29T22:36:19.520175 : Product Id: 007 quantity in stock is zero.
+2022-10-29T22:38:37.169582 : Product Id: 007 quantity in stock is zero.
+2022-10-29T22:42:18.011157 : Product Id: 007 quantity in stock is zero.
+2022-10-29T22:44:04.246561 : Product Id: 007 quantity in stock is zero.
+2022-10-29T22:52:46.015160 : Product Id: 007 quantity in stock is zero.
+2022-10-29T23:04:23.061666 : Product Id: 007 quantity in stock is zero.
+2022-10-29T23:05:57.768700 : Product Id: 007 quantity in stock is zero.
+2022-10-29T23:06:44.155662 : Product Id: 007 quantity in stock is zero.
+2022-10-29T23:07:21.645578 : Product Id: 007 quantity in stock is zero.
+2022-10-29T23:16:46.670824 : Product Id: 007 quantity in stock is zero.
+2022-10-29T23:16:57.845639 : Product Id: 007 quantity in stock is zero.
+2022-10-29T23:17:05.919811 : Item Id: 001 is updated.
+2022-10-29T23:17:05.931644 : Item list saved to file
+2022-10-30T14:46:48.392242 : Product Id: 007 quantity in stock is zero.
+2022-10-30T14:46:57.152315 : Item Id: 001 is updated.
+2022-10-30T14:46:57.165757 : Item list saved to file
+2022-10-30T15:19:01.755710 : Product Id: 007 quantity in stock is zero.
+2022-10-30T15:19:08.387545 : Item Id: 001 is updated.
+2022-10-30T15:19:08.397376 : Item list saved to file
+2022-10-30T15:20:24.518070 : Product Id: 007 quantity in stock is zero.
+2022-10-30T15:20:45.931888 : Item Id: 001 is updated.
+2022-10-30T15:20:45.940253 : Item list saved to file
+2022-10-30T15:58:18.918582 : Product Id: 007 quantity in stock is zero.
+2022-10-30T15:58:42.017131 : Item Id: 001 is updated.
+2022-10-30T15:58:42.025710 : Item list saved to file
+2022-10-30T16:28:20.869513 : Product Id: 007 quantity in stock is zero.
+2022-10-30T16:28:29.561806 : Item Id: 001 is updated.
+2022-10-30T16:28:29.564154 : Item list saved to file
+2022-10-30T16:34:23.464455 : Product Id: 007 quantity in stock is zero.
+2022-10-30T16:34:31.150450 : Item Id: 001 is updated.
+2022-10-30T16:34:31.152711 : Item list saved to file
+2022-10-30T16:34:40.240874 : Product Id: 007 quantity in stock is zero.
+2022-10-30T16:36:39.549355 : Product Id: 007 quantity in stock is zero.
+2022-10-30T16:37:12.244895 : Product Id: 007 quantity in stock is zero.
+2022-10-30T16:37:27.109797 : Product Id: 007 quantity in stock is zero.
+2022-10-30T16:37:34.531178 : Item Id: 005 is updated.
+2022-10-30T16:37:34.534328 : Item list saved to file
+2022-10-30T18:22:53.811736 : Product Id: 007 quantity in stock is zero.
+2022-10-30T18:23:16.715683 : Item Id: 001 is updated.
+2022-10-30T18:23:16.721351 : Item list saved to file
+2022-10-30T18:27:35.433795 : Product Id: 007 quantity in stock is zero.
+2022-10-30T18:27:39.261372 : Item Id: 001 is updated.
+2022-10-30T18:27:39.263743 : Item list saved to file
+2022-10-30T18:30:55.813804 : Product Id: 007 quantity in stock is zero.
+2022-10-30T18:30:59.455797 : Item Id: 001 is updated.
+2022-10-30T18:30:59.458220 : Item list saved to file
+2022-10-30T18:32:57.109023 : Product Id: 007 quantity in stock is zero.
+2022-10-30T18:33:03.798321 : Item Id: 001 is updated.
+2022-10-30T18:33:03.802167 : Item list saved to file
+2022-10-30T18:33:40.722514 : Product Id: 007 quantity in stock is zero.
+2022-10-30T18:33:49.302565 : Item Id: 001 is updated.
+2022-10-30T18:33:49.305048 : Item list saved to file
+2022-10-30T18:34:20.616225 : Product Id: 001 quantity in stock is zero.
+2022-10-30T18:34:20.622372 : Product Id: 007 quantity in stock is zero.
+2022-10-30T18:34:39.830082 : Product Id: 001 quantity in stock is zero.
+2022-10-30T18:34:39.835329 : Product Id: 007 quantity in stock is zero.
+2022-10-30T18:36:27.722479 : Item Id: 001 is updated.
+2022-10-30T18:36:27.728606 : Item list saved to file
+2022-10-30T18:39:24.272285 : Item Id: 005 is updated.
+2022-10-30T18:39:24.280002 : Item list saved to file
+2022-10-30T18:39:58.662996 : Item Id: 001 is updated.
+2022-10-30T18:39:58.671211 : Item list saved to file
+2022-10-30T18:40:51.396196 : Item Id: 009 is updated.
+2022-10-30T18:40:51.398666 : Item list saved to file
+2022-10-30T18:41:08.102008 : Product Id: 009 quantity in stock is zero.
+2022-10-30T18:41:14.735222 : Item Id: 006 is updated.
+2022-10-30T18:41:14.737434 : Item list saved to file
+2022-10-30T18:41:17.542339 : Product Id: 009 quantity in stock is zero.
+2022-10-30T18:42:31.683293 : Item Id: 008 is updated.
+2022-10-30T18:42:31.685541 : Item list saved to file
+2022-10-30T18:42:43.025369 : Product Id: 008 quantity in stock is zero.
+2022-10-30T18:42:43.025685 : Product Id: 009 quantity in stock is zero.
+2022-10-30T18:43:24.806627 : Product Id: 008 quantity in stock is zero.
+2022-10-30T18:43:24.812051 : Product Id: 009 quantity in stock is zero.
+2022-10-30T18:43:37.326684 : Product Id: 008 quantity in stock is zero.
+2022-10-30T18:43:37.327427 : Product Id: 009 quantity in stock is zero.
+2022-10-30T18:43:49.811238 : Item Id: 006 is updated.
+2022-10-30T18:43:49.815520 : Item list saved to file
+2022-10-31T10:55:09.845733 : Product Id: 008 quantity in stock is zero.
+2022-10-31T10:55:09.851853 : Product Id: 009 quantity in stock is zero.
+2022-10-31T10:55:27.744596 : Item Id: 001 is updated.
+2022-10-31T10:55:27.753441 : Item list saved to file
+2022-10-31T10:55:36.278830 : Product Id: 008 quantity in stock is zero.
+2022-10-31T10:55:36.279079 : Product Id: 009 quantity in stock is zero.
+2022-10-31T10:55:59.259989 : Item Id: 007 is updated.
+2022-10-31T10:55:59.261200 : Item list saved to file
+2022-10-31T10:56:03.208864 : Product Id: 007 quantity in stock is zero.
+2022-10-31T10:56:03.209665 : Product Id: 008 quantity in stock is zero.
+2022-10-31T10:56:03.209972 : Product Id: 009 quantity in stock is zero.
+2022-10-31T10:56:18.757102 : Item Id: 005 is updated.
+2022-10-31T10:56:18.759562 : Item list saved to file
+2022-10-31T10:59:01.989554 : Product Id: 007 quantity in stock is zero.
+2022-10-31T10:59:01.997245 : Product Id: 008 quantity in stock is zero.
+2022-10-31T10:59:01.997378 : Product Id: 009 quantity in stock is zero.
+2022-10-31T10:59:38.459493 : Product Id: 007 quantity in stock is zero.
+2022-10-31T10:59:38.460493 : Product Id: 008 quantity in stock is zero.
+2022-10-31T10:59:38.460925 : Product Id: 009 quantity in stock is zero.
+2022-10-31T10:59:48.426043 : Item Id: 002 is updated.
+2022-10-31T10:59:48.443124 : Item list saved to file
+2022-10-31T14:48:32.146978 : Item Id: 005 is updated.
+2022-10-31T14:48:32.154606 : Item list saved to file
+2022-10-31T14:49:07.206887 : Item Id: 009 is updated.
+2022-10-31T14:49:07.208190 : Item list saved to file
+2022-10-31T14:49:14.344152 : Product Id: 009 quantity in stock is zero.
+2022-10-31T14:49:52.975929 : Item Id: 001 is updated.
+2022-10-31T14:49:52.979074 : Item list saved to file
+2022-10-31T14:51:21.113326 : Product Id: 009 quantity in stock is zero.
+2022-11-02T00:07:15.984790 : Item Id: 006 is updated.
+2022-11-02T00:07:15.993245 : Item list saved to file
+2022-11-02T23:13:10.893492 : Item Id: 001 is updated.
+2022-11-02T23:36:25.537167 : Item Id: 001 is updated.
